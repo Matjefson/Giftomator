@@ -12,3 +12,10 @@ body {
 	background-color: hsl(128, 92%, 46%);
 	background-image: linear-gradient(315deg, #18c212 0%, #09f959 74%);
 }
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
