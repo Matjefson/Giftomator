@@ -9,9 +9,35 @@
 	color: #eeee15;
 	text-align: center;
 	padding: 15px;
-	float: left;
 }
 
 #nav {
+	background-color: rgb(92, 197, 92);
 	float: left;
+	width: 120px;
+	min-height: 620px;
+	padding: 10px;
+}
+
+#content {
+	background-color: rgb(26, 217, 26);
+	float: left;
+	padding: 20px;
+	width: 640px;
+	min-height: 600px;
+}
+
+#ad {
+	background-color: red;
+	float: left;
+	width: 160px;
+	min-height: 620px;
+	padding: 10px;
+}
+
+#footer {
+	clear: both;
+	background-color: aqua;
+	text-align: center;
+	min-height: 50px;
 }
