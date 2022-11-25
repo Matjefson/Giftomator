@@ -5,14 +5,14 @@
 }
 
 #logo {
-	background-color: rgb(119, 145, 119);
+	background-color: rgb(109, 133, 109);
 	color: #0c0c0a;
 	text-align: center;
 	padding: 15px;
 }
 
 #nav {
-	background-color: rgb(32, 42, 32);
+	background-color: rgb(115, 204, 140);
 	float: left;
 	width: 160px;
 	min-height: 800px;
@@ -37,7 +37,7 @@
 
 #footer {
 	clear: both;
-	background-color: rgb(32, 88, 88);
+	background-color: rgb(109, 133, 109);
 	text-align: center;
 	min-height: 40px;
 }
