@@ -1,0 +1,76 @@
+body {
+	background-color: black;
+	color: #ffffff;
+	font-family: 'Lato', sans-serif;
+	font-size: 20px;
+}
+
+#container {
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.rectangle {
+	width: 960px;
+	margin: 20px;
+	clear: both;
+}
+
+#logo {
+	float: left;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 70px;
+	width: 600px;
+}
+
+#zegar {
+	float: left;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 70px;
+}
+
+.square {
+	width: 50%;
+	float: left;
+}
+
+.tile1 {
+	background-color: aqua;
+	float: left;
+}
+
+.tile2 {
+	clear: both;
+	background-color: grey;
+}
+
+.tile3 {
+	float: left;
+	background-color: blueviolet;
+}
+
+.tile4 {
+	background-color: orange;
+	clear: both;
+}
+
+.tile5 {
+	background-color: grey;
+}
+
+#yt {
+	background-color: red;
+}
+
+#fb {
+	background-color: blue;
+}
+
+#goggle {
+	background-color: brown;
+}
+
+#tw {
+	background-color: aquamarine;
+}
