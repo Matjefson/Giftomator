@@ -1,43 +1,43 @@
 #container {
-	width: 1000px;
+	width: 1400px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 #logo {
-	background-color: green;
-	color: #eeee15;
+	background-color: rgb(119, 145, 119);
+	color: #0c0c0a;
 	text-align: center;
 	padding: 15px;
 }
 
 #nav {
-	background-color: rgb(92, 197, 92);
+	background-color: rgb(32, 42, 32);
 	float: left;
-	width: 120px;
-	min-height: 620px;
+	width: 160px;
+	min-height: 800px;
 	padding: 10px;
 }
 
 #content {
-	background-color: rgb(26, 217, 26);
+	background-color: rgb(47, 76, 47);
 	float: left;
 	padding: 20px;
-	width: 640px;
-	min-height: 600px;
+	width: 1000px;
+	min-height: 780px;
 }
 
-#ad {
-	background-color: red;
+#bask {
+	background-color: rgb(115, 204, 140);
 	float: left;
 	width: 160px;
-	min-height: 620px;
+	min-height: 800px;
 	padding: 10px;
 }
 
 #footer {
 	clear: both;
-	background-color: aqua;
+	background-color: rgb(32, 88, 88);
 	text-align: center;
-	min-height: 50px;
+	min-height: 40px;
 }
